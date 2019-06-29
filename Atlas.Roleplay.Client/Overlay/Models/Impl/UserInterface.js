@@ -3,12 +3,16 @@ $(document).ready(() => {
         el: "#menu-overlay",
         data: {
             Overlay: Overlay,
-            overlay: Overlay.NONE,
+            overlay: Overlay.MENU,
             container: {
                 Header: "Society",
                 Type: 0,
                 Selected: 0,
-                Items: [],
+                Items: [
+		    {
+			Label: "danzken suger ballesnöpp"
+		    }
+		],
                 Profile: {
                     Standard: "Standard"
                 }

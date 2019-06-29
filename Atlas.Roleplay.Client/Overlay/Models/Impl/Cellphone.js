@@ -1,9 +1,9 @@
-$(document).ready(() => {
+﻿$(document).ready(() => {
     const Viewmodel = new Vue({
         el: "#cellphone-overlay",
         data: {
             Overlay: Overlay,
-            overlay: Overlay.CELLPHONE,
+            overlay: Overlay.NONE,
             panel: 0,
             contacts: [
                 {
