@@ -1,0 +1,5 @@
+C:\Program Files\Atlas\atlas.exe
+D:\Projekt\Atlas\Atlas.Bash\obj\Release\Atlas.Bash.csprojAssemblyReference.cache
+D:\Projekt\Atlas\Atlas.Bash\obj\Release\Atlas.Bash.csproj.CoreCompileInputs.cache
+D:\Projekt\Atlas\Atlas.Bash\obj\Release\Atlas.Bash.csproj.CopyComplete
+D:\Projekt\Atlas\Atlas.Bash\obj\Release\atlas.exe

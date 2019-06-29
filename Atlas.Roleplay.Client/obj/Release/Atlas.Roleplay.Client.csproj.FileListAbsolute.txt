@@ -1,0 +1,5 @@
+D:\Atlas\resources\atlas\Atlas.Roleplay.Client.net.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csprojAssemblyReference.cache
+D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csproj.CoreCompileInputs.cache
+D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csproj.CopyComplete
+D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.net.dll
