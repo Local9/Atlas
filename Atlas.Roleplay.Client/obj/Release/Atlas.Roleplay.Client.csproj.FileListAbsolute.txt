@@ -3,3 +3,10 @@ D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csprojA
 D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csproj.CoreCompileInputs.cache
 D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.csproj.CopyComplete
 D:\Projekt\Atlas\Atlas.Roleplay.Client\obj\Release\Atlas.Roleplay.Client.net.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\Atlas.Roleplay.Client.net.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\Atlas.Roleplay.Library.net.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\JetBrains.Annotations.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\Newtonsoft.Json.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\System.ComponentModel.Annotations.dll
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\JetBrains.Annotations.xml
+D:\Projekt\Atlas\Atlas.Roleplay.Client\bin\Compilation\System.ComponentModel.Annotations.xml
